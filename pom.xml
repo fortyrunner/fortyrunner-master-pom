@@ -6,6 +6,7 @@
   <version>1-SNAPSHOT</version>
   <name>Master POM file</name>
   <packaging>pom</packaging>
+  
   <description>Master POM file for all fortyrunner projects</description>
 
   <properties>
