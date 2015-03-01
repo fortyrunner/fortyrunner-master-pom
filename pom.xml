@@ -18,11 +18,11 @@
     <apache-activemq.version>5.10.1</apache-activemq.version>
 
     <dropwizard.version>0.7.1</dropwizard.version>
-    <spring-framework.version>4.1.4.RELEASE</spring-framework.version>
+    <spring-framework.version>4.1.5.RELEASE</spring-framework.version>
     <spring-batch.version>3.0.3.RELEASE</spring-batch.version>
-    <spring-data-hadoop.version>2.0.4.RELEASE</spring-data-hadoop.version>
-    <spring-data.neo4j.version>3.2.1.RELEASE</spring-data.neo4j.version>
-    <spring-boot.version>1.2.1.RELEASE</spring-boot.version>
+    <spring-data-hadoop.version>2.1.0.RELEASE</spring-data-hadoop.version>
+    <spring-data.neo4j.version>3.2.2.RELEASE</spring-data.neo4j.version>
+    <spring-boot.version>1.2.2.RELEASE</spring-boot.version>
 
     <guava.version>18.0</guava.version>
     <joda-time.version>2.6</joda-time.version>
@@ -30,8 +30,8 @@
     <blizt4j.version>1.23</blizt4j.version>
     <jstl.version>1.2</jstl.version>
 
-    <neo4j.version>2.1.6</neo4j.version>
-    <hazelcast.version>3.4</hazelcast.version>
+    <neo4j.version>2.1.7</neo4j.version>
+    <hazelcast.version>3.4.1</hazelcast.version>
     <postgresql.version>9.3-1102-jdbc41</postgresql.version>
     <derby.version>10.11.1.1</derby.version>
 
