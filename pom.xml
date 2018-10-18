@@ -14,37 +14,37 @@
     <maven-compiler-plugin.source>1.8</maven-compiler-plugin.source>
     <maven-compiler-plugin.target>1.8</maven-compiler-plugin.target>
 
-    <apache-camel.version>2.18.3</apache-camel.version>
-    <apache-activemq.version>5.14.4</apache-activemq.version>
+    <apache-camel.version>2.22.1</apache-camel.version>
+    <apache-activemq.version>5.15.6</apache-activemq.version>
 
-    <dropwizard.version>1.1.0</dropwizard.version>
-    <spring-framework.version>4.3.3.RELEASE</spring-framework.version>
-    <spring-batch.version>3.0.7.RELEASE</spring-batch.version>
-    <spring-data-hadoop.version>2.4.0.RELEASE</spring-data-hadoop.version>
-    <spring-data.neo4j.version>4.2.1.RELEASE</spring-data.neo4j.version>
-    <spring-boot.version>1.5.2.RELEASE</spring-boot.version>
+    <dropwizard.version>1.3.7</dropwizard.version>
+    <spring-framework.version>5.1.1.RELEASE</spring-framework.version>
+    <spring-batch.version>4.0.1.RELEASE</spring-batch.version>
+    <spring-data-hadoop.version>2.5.0.RELEASE</spring-data-hadoop.version>
+    <spring-data.neo4j.version>5.1.1.RELEASE</spring-data.neo4j.version>
+    <spring-boot.version>2.0.6.RELEASE</spring-boot.version>
 
-    <guava.version>21.0</guava.version>
-    <joda-time.version>2.9.9</joda-time.version>
+    <guava.version>26.0-jre</guava.version>
+    <joda-time.version>2.10</joda-time.version>
     <jxl.version>2.6.12</jxl.version>
-    <blizt4j.version>1.36.2</blizt4j.version>
+    <blizt4j.version>1.37.2</blizt4j.version>
     <jstl.version>1.2</jstl.version>
 
     <neo4j.version>3.1.2</neo4j.version>
-    <hazelcast.version>3.8</hazelcast.version>
+    <hazelcast.version>3.10.6</hazelcast.version>
     <postgresql.version>9.4.1212</postgresql.version>
-    <derby.version>10.13.1.1</derby.version>
+    <derby.version>10.14.2.0</derby.version>
 
-    <hawtio.version>2.0.1</hawtio.version>
-    <jolokia.version>1.3.5</jolokia.version>
-    <slf4j-api.version>1.7.24</slf4j-api.version>
-    <log4j.version>2.8.1</log4j.version>
+    <hawtio.version>2.1.0</hawtio.version>
+    <jolokia.version>1.6.0</jolokia.version>
+    <slf4j-api.version>1.7.25</slf4j-api.version>
+    <log4j.version>2.11.1</log4j.version>
 
-    <mockito.version>1.10.19</mockito.version>
-    <junit.version>4.11</junit.version>
-    <esper.version>6.0.1</esper.version>
+    <mockito.version>2.23.0</mockito.version>
+    <junit.version>4.12</junit.version>
+    <esper.version>7.1.0</esper.version>
 
-    <ignite.version>1.9.0</ignite.version>
+    <ignite.version>2.6.0</ignite.version>
   </properties>
 
 
@@ -294,7 +294,7 @@
 
     <dependency>
       <groupId>org.mockito</groupId>
-      <artifactId>mockito-all</artifactId>
+      <artifactId>mockito-core</artifactId>
       <scope>test</scope>
       <version>${mockito.version}</version>
     </dependency>
