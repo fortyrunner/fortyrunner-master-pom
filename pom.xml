@@ -24,7 +24,7 @@
     <spring-data.neo4j.version>5.1.1.RELEASE</spring-data.neo4j.version>
     <spring-boot.version>2.0.6.RELEASE</spring-boot.version>
 
-    <guava.version>26.0-jre</guava.version>
+    <guava.version>27.0-jre</guava.version>
     <joda-time.version>2.10</joda-time.version>
     <jxl.version>2.6.12</jxl.version>
     <blizt4j.version>1.37.2</blizt4j.version>
